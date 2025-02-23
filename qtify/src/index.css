@@ -55,6 +55,7 @@ button {
   color: #34C94B;
   cursor: pointer;
   transition: border-color 0.25s;
+  font-family: Poppins;
 }
 button:hover {
   border-color: #646cff;
