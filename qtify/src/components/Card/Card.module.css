@@ -1,0 +1,12 @@
+.chip{
+    width: 71;
+height: 23;
+top: 176px;
+left: 6px;
+gap: 1px;
+border-radius: 10px;
+padding-top: 4px;
+padding-right: 8px;
+padding-bottom: 4px;
+padding-left: 8px;
+}
