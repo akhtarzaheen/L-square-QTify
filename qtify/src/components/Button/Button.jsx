@@ -1,6 +1,6 @@
 const FeedbackButton = (props) => {
     return (
-        <button>{props.children}</button>
+        <button style={{backgroundColor:"black"}}>{props.children}</button>
     )
 }
 
