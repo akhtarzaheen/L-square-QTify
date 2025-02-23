@@ -1,6 +1,6 @@
 const FeedbackButton = (props) => {
     return (
-        <button variant="outlined">{props.children}</button>
+        <button>{props.children}</button>
     )
 }
 
